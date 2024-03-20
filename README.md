@@ -1,6 +1,6 @@
-### :pushpin: you will need an EXECUTOR to run the script
+# :pushpin: you will need an EXECUTOR to run the script
 
-### run the script
+# run the script
 copy this script below that gets the latest version of the script and paste it on your executor that you are using
 
 ```lua
@@ -12,31 +12,31 @@ This script has a key the key is
 UpxBKdGcTkGD6FJQmP4x
 ```
 
-### :pushpin: this script works with MOBILE AND PC 
+## :pushpin: this script works with MOBILE AND PC 
 
-### :pushpin: All Game scripts on the menu/panel
+## :pushpin: All Game scripts on the menu/panel
 
-## GUIs:
-infinite yield
+### GUIs:
+- infinite yield
 
-## DOORS
-Vynixius script
-DarkCheatClient script
-ROOMS autowalk
-DOORS | the hunt script
+### DOORS
+- Vynixius script
+- DarkCheatClient script
+- ROOMS autowalk
+- DOORS | the hunt script
 
-## WORM 2048:
-Main script
+### WORM 2048:
+- Main script
 
 ## OTHER SCRIPTS:
 
-# natural disaster scripts:
-voidz scripts
-ghub free scripts
+### natural disaster scripts:
+- voidz scripts
+- ghub free scripts
 
-# roblox titanic scripts
-RIP script
+### roblox titanic scripts
+- RIP script
 titanic bully script
 
-# pet sim 99 scripts
-woke hub script
+### pet sim 99 scripts
+- woke hub script
